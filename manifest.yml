@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: picture-game-jrm0418
+  host: picture-game-jrm0418
+  disk_quota: 1024M
